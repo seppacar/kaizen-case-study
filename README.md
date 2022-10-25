@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Kaizen Case Study
+
+Proje için gerekli paketleri yüklemek için:
+
+### `npm install`
+
+
+Projeyi geliştirme modunda çalıştırmak için:
+
+### `npm start`
+
+Kendi tarayıcınızda görüntülemek için [http://localhost:3000](http://localhost:3000) adresini açın.

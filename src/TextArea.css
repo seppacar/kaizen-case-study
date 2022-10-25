@@ -1,0 +1,32 @@
+.ContentHeader {
+    position: absolute;
+    width: 92%;
+    height: 10.5%;
+    left: 4%;
+    top: 49.5%;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 30px;
+    letter-spacing: -0.2px;
+    color: #1D1E1C;
+}
+
+.ContentParagraph {
+    position: absolute;
+    align-items: center;
+    width: 92%;
+    height: 41.5%;
+    left: 4%;
+    top: 62.2%;
+    padding-bottom: 60px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #1D1E1C;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+}

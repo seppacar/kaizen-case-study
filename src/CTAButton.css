@@ -1,0 +1,20 @@
+.Button {
+  position: fixed;
+  align-items: center;
+  text-align: center;
+  width: 90%;
+  height: 7.6%;
+  top: 90%;
+  background: #F40000;
+  border-radius: 28px;
+}
+
+.ButtonText {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+
+}
